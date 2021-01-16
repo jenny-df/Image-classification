@@ -141,7 +141,7 @@ def predicting():
 print("\n")
 
 # A list of API keys. It's here so that the program can run for a longer time and predict 42,000 images before it stops(each key can take only 1000 requests per month):
-keys = ["8c56533b892244a0b67f31ebdd51ed7f"]
+keys = [Keys Here]
 
 # The default reponse is test failed. This changes if a prediction was made:
 response = 0
